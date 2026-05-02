@@ -1,19 +1,21 @@
 # Selection Latam Test
-Evaluación técnica de practicante de desarrollador Fullstack
 
+Evaluación técnica para el puesto de practicante Fullstack.
 
-# Dashboard de Candidatos
+## Dashboard de Candidatos
 
 Aplicación web simple para gestionar candidatos en un proceso de selección.
 
-Permite:
+Funcionalidades:
 
-* Agregar candidatos (nombre, email, teléfono, puesto)
-* Visualizar una lista de candidatos
-* Filtrar por nombre y estado
-* Actualizar el estado (Postulado, Entrevista, Contratado, Rechazado)
-* Eliminar candidatos
-* Ver métricas rápidas en un dashboard (totales por estado)
+- Agregar candidatos (nombre, email, teléfono, puesto)
+- Listar candidatos
+- Filtrar por nombre y estado
+- Actualizar el estado (Postulado, Entrevista, Contratado, Rechazado)
+- Eliminar candidatos
+- Visualizar métricas (totales por estado)
+
+![Dashboard](./ss.png)
 
 ---
 
