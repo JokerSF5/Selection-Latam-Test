@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6,
+    "nombre": "Luis Torres",
+    "email": "luis.torres@gmail.com",
+    "telefono": "912345678",
+    "puesto": "Backend Developer",
+    "estado": "postulado",
+    "fechaCreacion": "2026-05-01T15:10:00.000Z"
+  },
+  {
+    "id": 7,
+    "nombre": "Andrea Castillo",
+    "email": "andrea.castillo@gmail.com",
+    "telefono": "934567890",
+    "puesto": "Frontend Developer",
+    "estado": "entrevista",
+    "fechaCreacion": "2026-05-01T16:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "nombre": "José Ramírez",
+    "email": "jose.ramirez@gmail.com",
+    "telefono": "956789012",
+    "puesto": "DevOps Engineer",
+    "estado": "contratado",
+    "fechaCreacion": "2026-05-01T16:45:00.000Z"
+  },
+  {
+    "id": 9,
+    "nombre": "Lucía Fernández",
+    "email": "lucia.fernandez@gmail.com",
+    "telefono": "978901234",
+    "puesto": "Product Manager",
+    "estado": "entrevista",
+    "fechaCreacion": "2026-05-01T17:20:00.000Z"
+  },
+  {
+    "id": 10,
+    "nombre": "Carlos Paredes",
+    "email": "carlos.paredes@gmail.com",
+    "telefono": "987654321",
+    "puesto": "Data Analyst",
+    "estado": "postulado",
+    "fechaCreacion": "2026-05-01T18:00:00.000Z"
+  },
+  {
+    "id": 11,
+    "nombre": "Valeria Rojas",
+    "email": "valeria.rojas@gmail.com",
+    "telefono": "923456789",
+    "puesto": "Scrum Master",
+    "estado": "entrevista",
+    "fechaCreacion": "2026-05-01T18:40:00.000Z"
+  },
+  {
+    "id": 12,
+    "nombre": "Fernando Guzmán",
+    "email": "fernando.guzman@gmail.com",
+    "telefono": "945678123",
+    "puesto": "Mobile Developer",
+    "estado": "rechazado",
+    "fechaCreacion": "2026-05-01T19:10:00.000Z"
+  },
+  {
+    "id": 13,
+    "nombre": "Sofía Herrera",
+    "email": "sofia.herrera@gmail.com",
+    "telefono": "967890123",
+    "puesto": "UX Researcher",
+    "estado": "contratado",
+    "fechaCreacion": "2026-05-01T19:50:00.000Z"
+  }
+]
