@@ -13,13 +13,13 @@ function App() {
   const [busqueda, setBusqueda] = useState('');
   const [filtroEstado, setFiltroEstado] = useState('todos');
 
-  // 📊 métricas
+
   const total = candidatos.length;
   const contratados = candidatos.filter(c => c.estado === 'contratado').length;
   const entrevistas = candidatos.filter(c => c.estado === 'entrevista').length;
   const rechazados = candidatos.filter(c => c.estado === 'rechazado').length;
 
-  // 🔍 filtro + orden
+
   const candidatosFiltrados = [...candidatos]
     .filter(c =>
       c.nombre.toLowerCase().includes(busqueda.toLowerCase())
@@ -115,7 +115,7 @@ function App() {
       <div style={styles.container}>
         <h1 style={styles.title}>Dashboard de Candidatos</h1>
 
-        {/* 📊 CARDS */}
+
         <div style={styles.cardsContainer}>
           <div style={styles.card}>
             <h3>Total</h3>
@@ -150,7 +150,7 @@ function App() {
           </button>
         </form>
 
-        {/* 🔍 + 🎯 FILTROS */}
+        {/*FILTROS */}
         <div style={{ display: 'flex', gap: '10px', marginBottom: '15px' }}>
           <input
             style={{ ...styles.input, flex: 1 }}
